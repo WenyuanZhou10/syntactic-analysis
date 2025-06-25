@@ -134,9 +134,9 @@ LASTVT(P)={]}
 
 2. 根据判别优先关系的规则，画出优先关系表
 
-![Alt Text](F:\new\syntactic-analysis\images\优先关系计算规则.png)
+![优先关系计算规则](images/优先关系计算规则.png)
 
-![算符优先关系表](images\算符优先关系表.png)
+![算符优先关系表](images/算符优先关系表.png)
 
 ## C语言的运算符优先关系表
 
